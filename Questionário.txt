@@ -1,0 +1,4 @@
+1- o que é clone?
+2- O que é Commit?
+3- O que é um repositório?
+4- O que é pull?
