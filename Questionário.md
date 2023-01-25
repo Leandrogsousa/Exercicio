@@ -5,7 +5,7 @@ R- clone é usado sobretudo para apontar para um repositório existente e fazer 
   
 2- O que é Commit?
 R- Os commits são basicamente o estado em que o projeto se encontra na linha do tempo. Ou seja, a versão do projeto naquele
-   momento em que o commit foi criado.
+   momento em que o commit foi criado.  A melhor definição de Commit éEmpacotamento de informações.
 
 3- O que é um repositório?
 R- Um repositório, ou repo, é um armazenamento de computador para manter dados ou pacotes de software. Este local contém arquivos, bases de dados, 
