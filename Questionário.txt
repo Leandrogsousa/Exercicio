@@ -2,4 +2,4 @@
 2- O que é Commit?
 3- O que é um repositório?
 4- O que é pull?
-5- O que é push?
+5- O que é VCS?
