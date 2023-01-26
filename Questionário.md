@@ -15,3 +15,9 @@ R- Software de controle de versão.
 
 6- O que é Push?
 R- Enviar informações que foram empacotadas para o repositório remoto.
+
+7- O que é Merge?
+R- Integração de ramificações.
+	
+8- O que é Branch?
+R- Uma ramificação para alteração de arquivos do projeto.
